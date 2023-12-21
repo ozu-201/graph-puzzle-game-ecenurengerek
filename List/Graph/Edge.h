@@ -6,7 +6,8 @@
 #define DATASTRUCTURES_CPP_EDGE_H
 
 
-#include <string>
+#include <iostream>
+using namespace std;
 
 class Edge {
 private:

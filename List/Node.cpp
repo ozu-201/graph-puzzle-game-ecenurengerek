@@ -3,8 +3,9 @@
 //
 
 #include "Node.h"
+#include <string>
 
-Node::Node(int data) {
+Node::Node(string data) {
     this->data = data;
     this->next = nullptr;
 }
@@ -17,10 +18,7 @@ Node *Node::getNext() {
     return next;
 }
 
-int Node::getData() {
+string Node::getData() {
     return data;
 }
 
-string Node::to_string() {
-    return ::to_string(data);
-}
