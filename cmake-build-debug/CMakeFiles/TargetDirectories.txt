@@ -1,0 +1,4 @@
+C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-ecenurengerek/cmake-build-debug/CMakeFiles/graph-puzzle-game-ecenurengerek.dir
+C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-ecenurengerek/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-ecenurengerek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TEMP/Documents/GitHub/graph-puzzle-game-ecenurengerek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
